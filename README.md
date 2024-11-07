@@ -1,6 +1,7 @@
 # Дизайн мобильного приложения
 
 Ссылка на просмотр дизайна: https://www.figma.com/proto/1Ac32dfwhiPbXE5lrJZUHv/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5?node-id=15-79&node-type=frame&t=QleA0mxrQkwmGT7d-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=15%3A79&share=1&show-proto-sidebar=1
+(некоторые кнопки кликабельны!)
 
 Ссылка на разработку дизайна: https://www.figma.com/design/1Ac32dfwhiPbXE5lrJZUHv/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5?node-id=15-79&t=vPPRc8BnjeOkeQIH-1
 
